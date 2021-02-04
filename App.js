@@ -133,7 +133,7 @@ const styles = StyleSheet.create({
     color: '#4b42ff',
   },
   showNumber: {
-    fontWeight: '800',
+    fontWeight: '900',
     fontSize: 20,
     color: '#f0d667',
   },
@@ -155,7 +155,7 @@ const styles = StyleSheet.create({
     borderColor: '#fff',
     width: 70,
     height: 70,
-    margin: 6,
+    margin: 8,
     backgroundColor: '#4b42ff',
   },
   hiddenList: {
